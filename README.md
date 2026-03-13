@@ -4,16 +4,19 @@ This project presents an **interactive Healthcare Analytics Dashboard built usin
 
 ---
 
-# 🎯 Project Objectives
+# 📊 Data Source
 
-The main objectives of this dashboard are to:
+The dataset used for this project is publicly available and can be accessed here:
 
-* Analyze **patient demographics**
-* Identify the **most common medical conditions**
-* Track **admission patterns**
-* Monitor **healthcare billing trends**
-* Provide **interactive filters for deeper analysis**
+🔗 **Dataset Link:**
+https://docs.google.com/spreadsheets/d/1SLgVHxuWMWKkIJcJRpErtCHF9xQ3hXMY/edit?usp=drive_link&ouid=112244460931199785894&rtpof=true&sd=true 
 
+---
+# 📊 Data Model
+
+The dashboard uses a **star schema data model** to organize the data efficiently and support interactive analysis in Power BI.
+
+![Image](screenshots/Model.png)
 ---
 
 # 📊 Key Performance Indicators (KPIs)
