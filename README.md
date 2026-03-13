@@ -16,7 +16,8 @@ https://docs.google.com/spreadsheets/d/1SLgVHxuWMWKkIJcJRpErtCHF9xQ3hXMY/edit?us
 
 The dashboard uses a **star schema data model** to organize the data efficiently and support interactive analysis in Power BI.
 
-![Image](screenshots/Model.png)
+<img width="1203" height="870" alt="image" src="https://github.com/user-attachments/assets/56e36aad-4234-47f7-a9d4-f45349c175fc" />
+
 ---
 
 # 📊 Key Performance Indicators (KPIs)
@@ -51,6 +52,8 @@ This page provides a **high-level summary of hospital performance and patient di
 * Hospital patient volume
 * Trends in patient admissions
 * Distribution of medical conditions across hospitals
+  
+<img width="1264" height="908" alt="image" src="https://github.com/user-attachments/assets/1acc6272-4f76-4398-bb6b-1537cef87183" />
 
 ---
 
@@ -70,6 +73,8 @@ This page focuses on **patient demographic characteristics and admission pattern
 * How do medical conditions differ across genders?
 * What is the distribution of patients across blood types?
 
+<img width="1268" height="903" alt="image" src="https://github.com/user-attachments/assets/e066cefc-3d70-42c6-8bdf-acedf21379e6" />
+
 ---
 
 ## 3️⃣ Insights Page
@@ -87,6 +92,8 @@ This page focuses on **financial and treatment insights**.
 * Which conditions generate the highest costs
 * Medication distribution by condition
 * Billing trends over time
+
+<img width="1261" height="899" alt="image" src="https://github.com/user-attachments/assets/f8ec845b-b6aa-4ff5-bf4e-ea50ca99c7db" />
 
 ---
 
